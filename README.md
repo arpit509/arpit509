@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @arpit509
 - 👀 I’m interested in ... learning new things
 - 🌱 I’m currently learning ... 3D MODELING AND MACHINE LEARNING
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Game Development
 - 📫 How to reach me ... mauryaarpit097@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 <!---
